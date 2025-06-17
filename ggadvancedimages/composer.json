@@ -1,0 +1,12 @@
+{
+  "name": "prestashop/ggadvancedimages",
+  "autoload": {
+    "psr-4": {
+      "PrestaShop\\Module\\Ggadvancedimages\\": "src/"
+    },
+    "config": {
+      "prepend-autoloader": false
+    },
+    "type": "prestashop-module"
+  }
+}

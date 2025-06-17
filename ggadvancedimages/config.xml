@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>ggadvancedimages</name>
+    <displayName><![CDATA[GG Advanced Images]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Provide guest or logged-in specific product images per language.]]></description>
+    <author><![CDATA[Example]]></author>
+    <tab><![CDATA[]]></tab>
+    <is_configurable>0</is_configurable>
+    <need_instance>1</need_instance>
+</module>
